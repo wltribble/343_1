@@ -1,11 +1,5 @@
 #!/usr/bin/python
 
-# User ID: considerateGiraffe
-# Date Last Edited: 02/09/17
-# Challenge Number: 1
-
-# IMPORTANT NOTE: This program was coded in Python 3.
-
 """ Import Statements """
 # import the abiliity to divide without throwing errors
 from __future__ import division
